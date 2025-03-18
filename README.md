@@ -1,5 +1,4 @@
-
-    <h1 align="center">Hi 👋, I'm Rutuja Wangwad</h1>
+<h1 align="center">Hi 👋, I'm Rutuja Wangwad</h1>
 <h3 align="center">A girl trying to figure-out stuff!!</h3>
 
 <p align="left">
