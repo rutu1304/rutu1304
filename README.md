@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm </h1>
+
+    <h1 align="center">Hi 👋, I'm Rutuja Wangwad</h1>
 <h3 align="center">A girl trying to figure-out stuff!!</h3>
 
 <p align="left">
@@ -35,30 +36,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
   </a> 
   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> 
     <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="40" height="40"/> 
   </a> 
   <a href="https://filamentphp.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://filamentphp.com/images/logomark.min.svg" alt="filament" width="40" height="40"/> 
+    <img src="https://filamentphp.com//favicon/favicon-32x32.png" alt="filament" width="40" height="40"/> 
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="canva" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
   </a> 
-  <a href="https://elementor.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Elementor_Logo.svg" alt="elementor" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Shopify_logo_2018.svg/200px-Shopify_logo_2018.svg.png" alt="shopify" width="40" height="40"/> 
-  </a> 
+  
 </p>
+
